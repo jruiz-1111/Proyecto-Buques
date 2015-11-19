@@ -1,3 +1,3 @@
 # Proyecto-Buques
 
-este es un proyecto de optimizacion
+Este es un proyecto de optimización.
